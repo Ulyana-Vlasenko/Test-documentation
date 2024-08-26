@@ -6,4 +6,4 @@
 
 · Тест ран на основании текст-кейсов в системы Qase.io для [Registration and Authorization](https://github.com/Ulyana-Vlasenko/Test-documentation/blob/32b3023dc3bc074273c20c2fc2550057f452189c/Registration%20and%20autorization.pdf) и [Product Catalog](https://github.com/Ulyana-Vlasenko/Test-documentation/blob/32b3023dc3bc074273c20c2fc2550057f452189c/Product%20catalog.pdf)
 
-· Отчет о найденных дефектах на основании чек-листа и тестовых кейсов для регистрации, логина и каталога.
+· [Отчетъ](https://github.com/Ulyana-Vlasenko/Test-documentation/blob/400688429b1953356ef8d986aeb25a8d7461c883/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B0%D1%85.xlsx) о найденных дефектах на основании чек-листа и тестовых кейсов для регистрации, логина и каталога.
